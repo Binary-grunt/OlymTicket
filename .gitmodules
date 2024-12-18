@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Binary-grunt/react-jo.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Binary-grunt/nest-jo.git
